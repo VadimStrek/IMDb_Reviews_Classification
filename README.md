@@ -24,10 +24,10 @@ The task is to perform sentiment analysis of movie reviews from the Internet Mov
 - Deleting stopwords and punctuation
 - Stemming
 - Splitting into train and validation
--- BERT classification
 - TF-IDF vectorization
--- Random Forest classification
--- Support Vector classification
+- Random Forest classification
+- Support Vector classification
+- BERT classification
 
 ### 5. Results:
 - AUROC of Random Forest on validation: 0.825840
